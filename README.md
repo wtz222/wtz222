@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @wtz222
+- 🌱 I’m currently a student of Xi'an Jiao Tong University, majoring in artificial intelligence.
+- 📫 E-mail address: cnwtz222@gmail.com
